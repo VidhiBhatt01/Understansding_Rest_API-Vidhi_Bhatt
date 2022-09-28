@@ -28,3 +28,8 @@ To know more, visit:
 - How to handle API errors and validation <br>
 - How to properly use and return HTTP status 
   </p>
+
+
+
+
+![image](https://user-images.githubusercontent.com/83345228/192852672-ff898072-8972-495c-84f6-410c27178d05.png)
